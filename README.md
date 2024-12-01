@@ -13,7 +13,7 @@ The dataset contains time-series data, including features such as air temperatur
 The dataset posed challenges like gaps, missing data, and complex feature interactions.
 
 ## Data Preprocessing and Feature Selection  
-The preprocessing steps included cleaning missing values, handling outliers, and applying sliding window sampling to capture temporal dependencies. Feature selection highlighted the most impactful variables for model predictions.
+Applying sliding window sampling to capture temporal dependencies. Feature selection highlighted the most impactful variables for model predictions.
 
 ## Model Selection and Methodology  
 Three models were employed:  
